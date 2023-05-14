@@ -1,0 +1,10 @@
+version: 2
+
+sources:
+  - name: staging
+    database: teak-alloy-385319
+    schema: trips_data
+  
+    tables:
+      - name: green
+      - name: yellow
